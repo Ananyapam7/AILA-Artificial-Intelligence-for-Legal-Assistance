@@ -24,7 +24,12 @@ track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two 
 1. Identifying relevant prior cases for a given situation (Precedent Retrieval) 
 2. Identifying most relevant statutes for a given situation (Statute Retrieval). 
 
-This is essentially a task in the domain of natural language processing and information retrieval. 
+This is essentially a task in the domain of natural language processing, information retrieval and data mining. 
 [This](http://ceur-ws.org/Vol-2517/T1-1.pdf) paper provides an overview of the FIRE 2019 AILA Track.
 
 This repository contains python implimentations of the various methods described in the paper.
+
+Citations and references: 
+1. http://ceur-ws.org/Vol-2517/T1-1.pdf
+2. https://sites.google.com/view/fire-2019-aila/
+3. https://zenodo.org/record/4063986#.YGGZunUzaV6
