@@ -15,7 +15,7 @@ of a case), it will be very beneficial to him/her if there is an automatic syste
 that identifies a set of related prior cases involving similar situations as well
 as statutes/acts that can be most suited to the purpose in the given situation.
 
-## Benefits
+## Applications
 
 Such a system shall not only help a lawyer but also benefit a common man,
 in a way of getting a preliminary understanding of the legal aspects pertaining
