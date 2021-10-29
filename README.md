@@ -25,10 +25,10 @@ can proceed with (through statutes) and what were the outcomes of similar cases
 (through precedents).
 
 Motivated by the above scenario, the FIRE 2019 track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two tasks: 
-1. Identifying relevant prior cases for a given situation (Precedent Retrieval) 
-2. Identifying most relevant statutes for a given situation (Statute Retrieval). 
+1. Identifying relevant prior cases for a given situation (**Precedent Retrieval**) 
+2. Identifying most relevant statutes for a given situation (**Statute Retrieval**). 
 
-This is essentially a task in the domain of natural language processing, information retrieval and data mining. 
+**Domain** : This is a task in the domain of *Natural Language Processing*, *Information Retrieval* and *Data Mining*. 
 
 **Paper** : [This](http://ceur-ws.org/Vol-2517/T1-1.pdf) paper provides an overview of the FIRE 2019 AILA Track.
 
