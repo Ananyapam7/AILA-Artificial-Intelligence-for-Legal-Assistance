@@ -1,5 +1,7 @@
 # AILA-Artificial-Intelligence-for-Legal-Assistance
 
+## Motivation
+
 In countries following the Common Law system (e.g. UK, USA, Canada, Aus-
 tralia, India), there are two primary sources of law – Statutes (established laws,
 such as the Constitution of a country) and Precedents (prior cases decided in
@@ -7,10 +9,13 @@ courts of law). Statutes deal with applying legal principles to a situation (fac
 scenario / circumstances which lead to filing the case). Precedents or prior cases
 help a lawyer understand how the Court has dealt with similar scenarios in the
 past, and prepare the legal reasoning accordingly.
+
 When a lawyer is presented with a situation (that will potentially lead to filing
 of a case), it will be very beneficial to him/her if there is an automatic system
 that identifies a set of related prior cases involving similar situations as well
 as statutes/acts that can be most suited to the purpose in the given situation.
+
+## Benefits
 
 Such a system shall not only help a lawyer but also benefit a common man,
 in a way of getting a preliminary understanding of the legal aspects pertaining
@@ -19,8 +24,7 @@ him/her in identifying where his/her legal problem fits, what legal actions he/s
 can proceed with (through statutes) and what were the outcomes of similar cases
 (through precedents).
 
-Motivated by the above scenario, the FIRE 2019
-track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two tasks: 
+Motivated by the above scenario, the FIRE 2019 track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two tasks: 
 1. Identifying relevant prior cases for a given situation (Precedent Retrieval) 
 2. Identifying most relevant statutes for a given situation (Statute Retrieval). 
 
