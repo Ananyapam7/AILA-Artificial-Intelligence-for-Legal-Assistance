@@ -27,7 +27,7 @@ track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two 
 This is essentially a task in the domain of natural language processing, information retrieval and data mining. 
 [This](http://ceur-ws.org/Vol-2517/T1-1.pdf) paper provides an overview of the FIRE 2019 AILA Track.
 
-This repository contains python implimentations of the various methods described in the paper which include the following:
+This repository contains python implimentations of the various methods described in the paper which include the following main techniques:
 
 1. Cosine Similarity
 2. Jaccard Similarity
@@ -43,6 +43,8 @@ This repository contains python implimentations of the various methods described
 12. BERT
 13. IFB2 Weighting Model
 14. LexPageRank algorithm
+
+used in conjunction with other mechanisms.
 
 Citations and references: 
 1. http://ceur-ws.org/Vol-2517/T1-1.pdf
