@@ -1,4 +1,4 @@
-# AILA-Artificial-Intelligence-for-Legal-Assistance
+# AILA: Artificial Intelligence for Legal Assistance
 
 ## Motivation
 
