@@ -19,7 +19,7 @@ def get_wordnet_pos(treebank_tag):
 
 
 def process(doc):
-    """Takes a document and carries out lowercasing, stopword removal, lemmatization and POS tagging to be utilized for doc2vec"""
+    """Takes a document and carries out lowercasing, stopword removal, lemmatization and Part Of Speech(POS) tagging to be utilized for doc2vec"""
 
     # For removal of stopwords
     stop_words = stopwords.words('english')
