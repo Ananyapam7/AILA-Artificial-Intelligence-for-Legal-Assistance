@@ -1,16 +1,21 @@
+#TF-IDF implementation
+
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import TfidfVectorizer
 import texthero as hero
+
 df['tfidf'] = hero.do_tfidf(df['clean_text'])
 
 test = pd.read_csv("/kaggle/input/legalai/Query_doc.txt",delimiter ="|",header=None)
+
 test.columns = ["AILA","NAN", "Query"]
+
 test = test.drop(columns=["AILA","NAN"])
 
 test['clean_text'] = test['Query'].apply(lambda x: utils_preprocess_text(x,flg_stemm = False, flg_lemm=True))
 
 test['tfidf'] = hero.do_tfidf(test['clean_text'])
 
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.feature_extraction.text import TfidfVectorizer
 # Vectorise the data
 vec = TfidfVectorizer()
 X = vec.fit_transform([df['clean_text'][0]]) # `X` will now be a TF-IDF representation of the data, the first row of `X` corresponds to the first sentence in `data`
