@@ -11,7 +11,7 @@ In countries following the Common Law system (e.g. UK, USA, Canada, Australia, I
 ## Motivation
 
 When a lawyer is presented with a situation (that will potentially lead to filing
-of a case), it will be very beneficial to him/her if there is an automatic system
+of a case), it will be very beneficial to one if there is an automatic system
 that identifies a set of related prior cases involving similar situations as well
 as statutes/acts that can be most suited to the purpose in the given situation.
 
@@ -19,8 +19,8 @@ as statutes/acts that can be most suited to the purpose in the given situation.
 
 Such a system shall not only help a lawyer but also benefit a common man,
 in a way of getting a preliminary understanding of the legal aspects pertaining
-to a situation, even before he/she approaches a lawyer. The system can assist
-him/her in identifying where his/her legal problem fits, what legal actions he/she
+to a situation, even before one approaches a lawyer. The system can assist
+one in identifying where one's legal problem fits, what legal actions one
 can proceed with (through statutes) and what were the outcomes of similar cases
 (through precedents).
 
