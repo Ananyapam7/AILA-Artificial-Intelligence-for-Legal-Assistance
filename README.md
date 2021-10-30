@@ -2,9 +2,7 @@
 
 ## Introduction
 
-In countries following the Common Law system (e.g. UK, USA, Canada, Australia, India), there are two primary sources of law – **Statutes** and **Precedents**.
-
-**Statutes** are the prior cases decided in courts of law while **Precedents** are established laws, such as the Constitution of a country.
+In countries following the Common Law system (e.g. UK, USA, Canada, Australia, India), there are two primary sources of law – **Statutes** and **Precedents**. **Statutes** are the prior cases decided in courts of law while **Precedents** are established laws, such as the Constitution of a country.
 
 **Statutes** deal with applying legal principles to a situation (facts /scenario / circumstances which lead to filing the case).
 
