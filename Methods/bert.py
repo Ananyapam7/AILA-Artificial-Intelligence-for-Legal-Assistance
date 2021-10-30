@@ -291,7 +291,6 @@ def train(target,test_q_embd,db,epochs):
         for case in db:
             rep=model_embd(case)
             yhat = model_att(test_q_embd,rep)
-            #print(yhat)
             loss = criterion(yhat, target.reshape([1,len(target)]))
             optimizer.zero_grad()
             loss.backward(retain_graph=True)
