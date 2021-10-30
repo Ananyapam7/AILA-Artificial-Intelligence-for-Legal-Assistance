@@ -1,8 +1,8 @@
 # AILA: Artificial Intelligence for Legal Assistance
 
-Track website : (https://sites.google.com/view/fire-2019-aila/)[https://sites.google.com/view/fire-2019-aila/]
+Track website : https://sites.google.com/view/fire-2019-aila/
 
-Conference website : (http://fire.irsi.res.in/fire/2019/home)[http://fire.irsi.res.in/fire/2019/home]
+Conference website : http://fire.irsi.res.in/fire/2019/home
 
 ## Introduction
 
