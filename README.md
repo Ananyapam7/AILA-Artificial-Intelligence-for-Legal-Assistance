@@ -1,14 +1,17 @@
 # AILA: Artificial Intelligence for Legal Assistance
 
-## Motivation
+## Introduction
 
-In countries following the Common Law system (e.g. UK, USA, Canada, Aus-
-tralia, India), there are two primary sources of law – Statutes (established laws,
-such as the Constitution of a country) and Precedents (prior cases decided in
-courts of law). Statutes deal with applying legal principles to a situation (facts /
-scenario / circumstances which lead to filing the case). Precedents or prior cases
-help a lawyer understand how the Court has dealt with similar scenarios in the
-past, and prepare the legal reasoning accordingly.
+In countries following the Common Law system (e.g. UK, USA, Canada, Australia, India), there are two primary sources of law – **Statutes** and **Precedents**.
+
+**Statutes** are the prior cases decided in courts of law while **Precedents** are established laws, such as the Constitution of a country.
+
+**Statutes** deal with applying legal principles to a situation (facts /
+scenario / circumstances which lead to filing the case).
+
+**Precedents** or prior cases help a lawyer understand how the Court has dealt with similar scenarios in the past, and prepare the legal reasoning accordingly.
+
+## Motivation
 
 When a lawyer is presented with a situation (that will potentially lead to filing
 of a case), it will be very beneficial to him/her if there is an automatic system
