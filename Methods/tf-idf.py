@@ -6,7 +6,7 @@ import texthero as hero
 
 df['tfidf'] = hero.do_tfidf(df['clean_text'])
 
-test = pd.read_csv("/kaggle/input/legalai/Query_doc.txt",delimiter ="|",header=None)
+test = pd.read_csv("Query_doc.txt",delimiter ="|",header=None)
 
 test.columns = ["AILA","NAN", "Query"]
 
