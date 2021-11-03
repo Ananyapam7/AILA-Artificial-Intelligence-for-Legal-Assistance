@@ -26,7 +26,7 @@ in a way of getting a preliminary understanding of the legal aspects pertaining
 to a situation, even before one approaches a lawyer. The system can assist
 one in identifying where one's legal problem fits, what legal actions one
 can proceed with (through statutes) and what were the outcomes of similar cases
-(through precedents).
+(through precedents). Such a kind of Legal Recommendation System could speed up our judicial system by 5 times.
 
 Motivated by the above scenario, the FIRE 2019 track on ‘Artificial Intelligence for Legal Assistance’ (AILA) proposed two tasks: 
 1. Identifying relevant prior cases for a given situation (**Precedent Retrieval**) 
